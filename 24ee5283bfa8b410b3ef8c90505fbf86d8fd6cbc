@@ -1,0 +1,8 @@
+Code-Review+2: Julia Kreger <juliaashleykreger@gmail.com>
+Workflow+1: Julia Kreger <juliaashleykreger@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 03 Sep 2019 10:24:57 +0000
+Reviewed-on: https://review.opendev.org/679233
+Project: openstack/networking-generic-switch-tempest-plugin
+Branch: refs/heads/master
